@@ -1,0 +1,6 @@
+{
+  "name": "Netra KBC (TarkShastra)",
+  "description": "Free KBC-style general knowledge & logical reasoning quiz game (Socho, Samjho, Jeeto) with 17-question prize ladder, lifelines, TTS narration, and junior/adult modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
